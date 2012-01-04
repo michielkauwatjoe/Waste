@@ -1,6 +1,6 @@
 package nl.concretejungle.waste.sketches;
 import processing.core.*;
-//mport processing.xml.*;
+//import processing.xml.*;
 
 
 public class WasteSketch extends PApplet {
